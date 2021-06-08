@@ -1,0 +1,10 @@
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\bin\Debug\TesteClasse.exe.config
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\bin\Debug\TesteClasse.exe
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\bin\Debug\TesteClasse.pdb
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\bin\Debug\Classes.dll
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\bin\Debug\Classes.pdb
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\obj\Debug\TesteClasse.csprojAssemblyReference.cache
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\obj\Debug\TesteClasse.csproj.CoreCompileInputs.cache
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\obj\Debug\TesteClasse.csproj.CopyComplete
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\obj\Debug\TesteClasse.exe
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\TesteClasse\obj\Debug\TesteClasse.pdb

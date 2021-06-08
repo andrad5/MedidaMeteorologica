@@ -1,0 +1,6 @@
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\bin\Debug\Classes.dll
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\bin\Debug\Classes.pdb
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\obj\Debug\Classes.dll
+C:\Users\lu13r\source\repos\Projetos\ExemploClasses\Classes\obj\Debug\Classes.pdb
